@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Camera X</string>
+    <string name="don_t_have_account"><font color = "eecb00"> Anda belum punya akun?</font><font color="#3213fc"> Daftar</font></string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="password_minimum_character"><font color="#ee2a00"> Password harus lebih dari 8 karakter!</font></string>
+    <string name="create_account">Untuk akun X</string>
+    <string name="name">Name</string>
+    <string name="already_have_account">Sudah punya akun?<font color="#3213fc"> Login</font></string>
+    <string name="login_failed"><font color="#9c8dff">Login gagal, coba untuk ulang kembali! </font></string>
+    <string name="register_failed"><font color="#9c8dff">Pendaftaran akun gagal, coba untuk ulang kembali! </font></string>
+    <string name="register_success"><font color="#9c8dff">Pendaftaran berhasil, Silahkan Masuk:)</font></string>
+    <string name="register">pendaftaran</string>
+    <string name="description">deskripsi</string>
+    <string name="description_text">Deskripsikan apa yang sesuai dengan gambar</string>
+    <string name="created_at">buat</string>
+    <string name="title">judul</string>
+    <string name="upload">Upload</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="please_choose_image"><font color="#ee2a00"> Masukan gambar terlebih dahulu ya!</font></string>
+    <string name="add_story_success"><font color="#ee2a00">Selamat kamu berhasil update story! </font></string>
+    <string name="cant_get_permission">Did not get permissions.</string>
+    <string name="camera_x_story">Camera X Story!</string>
+    <string name="masuk_dan_memulai_storymu">Masuk dan Memulai Storymu!!!</string>
+    <string name="submit">Submit</string>
+    <string name="masukan_data_diri_anda">Masukan Data Diri Anda!</string>
+    <string name="selamat_datang_di_camera_x_story"><font color="#3213fc"> Selamat Datang di Camera X Story!</font></string>
+    <string name="avatar">avatar</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+    <string name="copyright">© 2021 Dicoding</string>
+</resources>
